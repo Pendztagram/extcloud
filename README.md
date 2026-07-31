@@ -1,85 +1,80 @@
 # ExtCloud
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pendztagram/extcloud/builds/icon.png" width="128" alt="ExtCloud">
+  <img src="https://raw.githubusercontent.com/Pendztagram/extcloud/builds/icon.png" width="128">
+</p>
+
+<h1 align="center">ExtCloud Repository</h1>
+
+<p align="center">
+Public Cloudstream Extension Repository
 </p>
 
 <p align="center">
-  <b>Public Cloudstream Extension Repository</b><br>
-  Indonesian streaming extensions repository for Cloudstream.
-</p>
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/Pendztagram/extcloud/builds/repo.json">
-    <img src="https://img.shields.io/badge/Repository-Cloudstream-blue?style=for-the-badge">
-  </a>
-  <a href="https://t.me/extcloudid">
-    <img src="https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram">
-  </a>
-  <a href="https://saweria.co/duro92">
-    <img src="https://img.shields.io/badge/Support-Saweria-orange?style=for-the-badge">
-  </a>
+<a href="https://t.me/extcloudid"><img src="https://img.shields.io/badge/Telegram-Join%20Group-26A5E4?style=for-the-badge&logo=telegram"></a>
+<a href="https://saweria.co/duro92"><img src="https://img.shields.io/badge/Support-Saweria-ff813f?style=for-the-badge"></a>
 </p>
 
 ---
 
-## 📦 Repository URL
+# 📦 Repository
 
-Tambahkan repository berikut ke aplikasi Cloudstream.
+Tambahkan repository berikut ke Cloudstream:
 
-```
+```text
 https://raw.githubusercontent.com/Pendztagram/extcloud/builds/repo.json
 ```
 
 ---
 
-## 🚀 Cara Install
+# 📲 Cara Install
 
 1. Install Cloudstream.
-2. Buka **Settings** → **Extensions** → **Repositories**.
-3. Pilih **Add Repository**.
-4. Masukkan URL repository di atas.
-5. Simpan dan install extension yang tersedia.
+2. Buka **Settings → Extensions → Repository**.
+3. Tambahkan URL repository di atas.
+4. Install extension yang diinginkan.
 
 ---
 
-## ✨ Features
+# ⚙️ Konfigurasi SoraStream 
 
-- 🇮🇩 Indonesian Content
-- 🎬 Movies
-- 📺 TV Series
-- 🎞 Anime
-- ⚡ Fast Updates
-- ☁️ Cloudstream Compatible
+Agar SoraStream dapat bekerja dengan optimal, masukkan **Penguplay Token**
+
+📩 Untuk mendapatkan token gratis, silakan hubungi pembuat extension melalui Telegram:
+
+**Telegram:** https://t.me/pendi29
+
+### Cara Memasukkan Token
+
+1. Install **SoraStream**.
+2. Buka **Settings**.
+3. Masuk ke **SoraStream Provider Settings**.
+4. Tempel token Penguplay di kolom **Penguplay Token**.
+5. Simpan pengaturan lalu restart Cloudstream bila diperlukan.
 
 ---
 
-## 💬 Community
+# 💬 Telegram
 
-Bergabung dengan komunitas Telegram untuk mendapatkan update repository, request extension, dan bantuan.
+Diskusi, update repository, request extension, dan bantuan:
 
-**Telegram**
 https://t.me/extcloudid
 
 ---
 
-## ❤️ Support
+# ❤️ Support
 
-Jika repository ini bermanfaat, Anda dapat mendukung pengembang melalui Saweria.
+Jika repository ini bermanfaat, Anda dapat mendukung pengembangan melalui Saweria.
 
-**Saweria**
 https://saweria.co/duro92
 
 ---
 
-## 📜 Disclaimer
+# ⚠️ Disclaimer
 
-Repository ini hanya menyediakan plugin untuk mengakses sumber yang tersedia di internet.
-
-Kami tidak menyimpan, mengunggah, atau mendistribusikan konten berhak cipta.
+Repository ini hanya menyediakan plugin untuk Cloudstream.
+Seluruh konten berasal dari sumber pihak ketiga. Repository ini tidak menyimpan maupun mendistribusikan konten berhak cipta.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
+Made with ❤️ by **Pendztagram**
