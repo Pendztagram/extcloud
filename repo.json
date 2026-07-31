@@ -1,9 +1,0 @@
-{
-    "name": "ExtCloud",
-    "description": "Cloudstream extensions collection",
-    "iconUrl": "https://avatars.githubusercontent.com/u/114850487?v=4",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/plugins.json"
-    ]
-}
