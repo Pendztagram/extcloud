@@ -887,10 +887,10 @@
     },
     {
         "iconUrl": "https://www.febbox.com/favicon.ico",
-        "fileHash": "sha256-ef52a666b20811a335c34fef6f6e826d0571a57b39817fcbabbbd57cc1bc7ca7",
+        "fileHash": "sha256-ef0f8a0b58bbee39c38f7fe75a47d8b629989cf7414528b4ae7a55062f2e7c2d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 42931,
+        "fileSize": 43989,
         "status": 1,
         "language": "en",
         "authors": [
