@@ -522,10 +522,10 @@
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://layarasia.site&size=%size%",
-        "fileHash": "sha256-0ec0273da4e131f0c6da56663dcd02637de9b5bc529fa7eba1bae188aca90b63",
+        "fileHash": "sha256-212481233bd14d94e730336c275f6748188317623d89d1598d0a3c31056a4168",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 27084,
+        "fileSize": 27311,
         "status": 1,
         "language": "id",
         "authors": [
@@ -887,10 +887,10 @@
     },
     {
         "iconUrl": "https://www.febbox.com/favicon.ico",
-        "fileHash": "sha256-06250f0992895a53ccb2e3844f367d05ef08120ec70f065490ddd5305d447bc1",
+        "fileHash": "sha256-ef52a666b20811a335c34fef6f6e826d0571a57b39817fcbabbbd57cc1bc7ca7",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 35681,
+        "fileSize": 42931,
         "status": 1,
         "language": "en",
         "authors": [
