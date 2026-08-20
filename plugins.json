@@ -23,6 +23,27 @@
         "name": "AnichinMoe"
     },
     {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anikage.cc&size=%size%",
+        "fileHash": "sha256-b086efe0c267e5f37dd7797d86b4acf65ee9aa48e2cfaa263fb11983d7e9bb57",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
+        "fileSize": 27541,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "AnikageProvider",
+        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/AnikageProvider.cs3",
+        "name": "AnikageProvider"
+    },
+    {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v1.animasu.top&size=%size%",
         "fileHash": "sha256-ee85866910d79c1cb1ed697884e234bd49be058efef9179ac1cdc6a6a8f37b4e",
         "apiVersion": 1,
@@ -150,28 +171,6 @@
         "description": "Anoboy",
         "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/Anoboy.cs3",
         "name": "Anoboy"
-    },
-    {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://auratail.vip&size=%size%",
-        "fileHash": "sha256-682542f513d1c5d0aed3f4b40f3b36ee53a93236a39bf643a3ee6b25d841d0b9",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 36267,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "duro92"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "OVA",
-            "Anime"
-        ],
-        "version": 1,
-        "internalName": "AuraTail",
-        "description": "AuraTail Donghua",
-        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/AuraTail.cs3",
-        "name": "AuraTail"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://azmovies.to&size=%size%",
@@ -522,10 +521,10 @@
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://layarasia.site&size=%size%",
-        "fileHash": "sha256-c9af73434a7ab2a46935749c985b362d5e411359f6399c0474bf947634c2f2b7",
+        "fileHash": "sha256-15e6a4e650b28bc457003b9f55ab2bf0bf0ec1adfadb6628c5bd4329e0ae5be8",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 47185,
+        "fileSize": 50062,
         "status": 1,
         "language": "id",
         "authors": [
@@ -629,10 +628,10 @@
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://new18.ngefilm.site&size=%size%",
-        "fileHash": "sha256-16d75aaf874a9eef23ed4affc8930c045028570838c6231cb494791b32701a74",
+        "fileHash": "sha256-d3994b30f150a77ed979ab76e4f2d1c10b629ddfc6bf75bec5a8a9c049fd48d1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 43717,
+        "fileSize": 44950,
         "status": 1,
         "language": "id",
         "authors": [
@@ -822,10 +821,10 @@
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v3.pusatfilm21info.com&size=%size%",
-        "fileHash": "sha256-435782870d5afd744c7be63968318ab8c1dbf211c1cd749ac080f2db9d11494d",
+        "fileHash": "sha256-8ece57999be780768ca955737ff3f7ad5b90a21201d0197b0ae312334aae5c18",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 43572,
+        "fileSize": 46093,
         "status": 1,
         "language": "id",
         "authors": [
@@ -956,10 +955,10 @@
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://surgafilm21.website&size=%size%",
-        "fileHash": "sha256-18c8a6da22ffd5ebc1c4733d083388344e0a4508d5fd6d0b33bbd7a44de8a2e9",
+        "fileHash": "sha256-19ad0f487a1cc65d83692461b568e7ef05ecef7d2c26d232c30a431415dc1fc9",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 63057,
+        "fileSize": 65563,
         "status": 1,
         "language": "id",
         "authors": [
