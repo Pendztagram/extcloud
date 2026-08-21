@@ -24,6 +24,7 @@ Tambahkan repository berikut ke Cloudstream:
 ```text
 https://raw.githubusercontent.com/Pendztagram/extcloud/builds/repo.json
 ```
+atau klik link ini : https://shorturl.at/96fKT
 
 ---
 
