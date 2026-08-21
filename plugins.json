@@ -304,27 +304,6 @@
         "name": "FreeReels"
     },
     {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeone.id&size=%size%",
-        "fileHash": "sha256-bf3caae3004aa96a343a2a523b0968486e19b3cfd77372405d770071699611c7",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 48186,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "duro92"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "OVA",
-            "Anime"
-        ],
-        "version": 1,
-        "internalName": "GojodesuProvider",
-        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/GojodesuProvider.cs3",
-        "name": "GojodesuProvider"
-    },
-    {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://gomunime.top&size=%size%",
         "fileHash": "sha256-909cb5bad149eec0bee15412a3369dbbb9f26334385bc6fbfa663d7a1fd3d72d",
         "apiVersion": 1,
