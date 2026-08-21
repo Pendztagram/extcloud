@@ -24,10 +24,10 @@
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anikage.cc&size=%size%",
-        "fileHash": "sha256-dcecd00041b55510882fba6a5041e956e0f52e0a941608b98390bdd018ff9c40",
+        "fileHash": "sha256-399621295751ac7e55a2a0df573deb0730c97f94f4875b3d956a07a18a3681d5",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 35191,
+        "fileSize": 35686,
         "status": 1,
         "language": "en",
         "authors": [
