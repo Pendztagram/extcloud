@@ -933,6 +933,27 @@
         "name": "SoraStream"
     },
     {
+        "iconUrl": "https://www.stremio.com/website/stremio-logo-small.png",
+        "fileHash": "sha256-aced900387d2d237f7827fe6de6619541db266626a1d51e92e78085dbca6b87d",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
+        "fileSize": 26250,
+        "status": 3,
+        "language": "en",
+        "authors": [
+            "duro92"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "StremioProvider",
+        "description": "Stremio/Cinemeta catalog provider. Opens titles in Web Stremio; stream links depend on the user's Stremio add-ons.",
+        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/StremioProvider.cs3",
+        "name": "StremioProvider"
+    },
+    {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tensei.club&size=%size%",
         "fileHash": "sha256-058f3657f17c44ec70d31fc5833be637f5f2c27700f08aef850aa2a602be9a65",
         "apiVersion": 1,
