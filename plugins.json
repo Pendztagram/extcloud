@@ -934,10 +934,10 @@
     },
     {
         "iconUrl": "https://www.stremio.com/website/stremio-logo-small.png",
-        "fileHash": "sha256-aced900387d2d237f7827fe6de6619541db266626a1d51e92e78085dbca6b87d",
+        "fileHash": "sha256-5b60e3d089f9ea7d7b44c849f6feb6725520604446a6e0848b5156bd8f889fd7",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 26250,
+        "fileSize": 26473,
         "status": 3,
         "language": "en",
         "authors": [
