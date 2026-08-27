@@ -910,10 +910,10 @@
     },
     {
         "iconUrl": "https://github.com/duro92/ExtCloud/blob/main/SoraStream/Icon.png",
-        "fileHash": "sha256-4f96411e1b0e4e4b374b550dafddfcf4aa2de8c3b06739d170d8abc3cb260784",
+        "fileHash": "sha256-f12a72e9eff653661214b34b1943252db0acbc938121f3ecec6c9b9f9a9bad0e",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 327146,
+        "fileSize": 327149,
         "status": 1,
         "language": "en",
         "authors": [
@@ -931,28 +931,6 @@
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/SoraStream.cs3",
         "name": "SoraStream"
-    },
-    {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://surgafilm21.website&size=%size%",
-        "fileHash": "sha256-84557fcb7f2fcb97cfeabd75adee95936d7fb5de1ebb1503b245f0be938e6639",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 67728,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "ExtCloud"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "AsianDrama"
-        ],
-        "version": 7,
-        "internalName": "Surgafilm21Provider",
-        "description": "Surgafilm21",
-        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/Surgafilm21Provider.cs3",
-        "name": "Surgafilm21Provider"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tensei.club&size=%size%",
