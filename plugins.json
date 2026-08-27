@@ -910,10 +910,10 @@
     },
     {
         "iconUrl": "https://github.com/duro92/ExtCloud/blob/main/SoraStream/Icon.png",
-        "fileHash": "sha256-f12a72e9eff653661214b34b1943252db0acbc938121f3ecec6c9b9f9a9bad0e",
+        "fileHash": "sha256-4f96411e1b0e4e4b374b550dafddfcf4aa2de8c3b06739d170d8abc3cb260784",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 327149,
+        "fileSize": 327146,
         "status": 1,
         "language": "en",
         "authors": [
