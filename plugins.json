@@ -843,6 +843,27 @@
         "name": "Samehadaku"
     },
     {
+        "iconUrl": "https://showboxapissl.stsoso.com/static/images/favicon.png",
+        "fileHash": "sha256-6c5d532c4baf73e7419a62e6578f8f5c7ad96306b0b3011e3bbb8fe9365cf678",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
+        "fileSize": 48392,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "CNCVerse"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "ShowboxApiProvider",
+        "description": "ShowBox API provider",
+        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/ShowboxApiProvider.cs3",
+        "name": "ShowboxApiProvider"
+    },
+    {
         "iconUrl": "https://showboxmovies.one/images/favicon.png?v=4",
         "fileHash": "sha256-e69b9fe2d4f06d6d6158e671f02a6b792f8f995baf6aef8fb3353f8b5e315e8e",
         "apiVersion": 1,
