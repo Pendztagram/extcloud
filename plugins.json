@@ -800,10 +800,10 @@
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v3.pusatfilm21info.com&size=%size%",
-        "fileHash": "sha256-57bb08649c0f10d1d0868c50b8fc96f75e735ccd76435e986f75e63c8b3e9fce",
+        "fileHash": "sha256-3d474685437c2d88ace07c407e17f3437c85835c201f2346df2b3150150b8d89",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 49076,
+        "fileSize": 48414,
         "status": 1,
         "language": "id",
         "authors": [
