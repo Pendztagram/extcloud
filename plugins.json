@@ -821,28 +821,6 @@
         "name": "Pusatfilm21Provider"
     },
     {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v2.samehadaku.how&size=%size%",
-        "fileHash": "sha256-736fe7e314d80eeac4f6bb81cb468318b9cea113cbdc4faf4f3aa935a28daedd",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 39742,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Duro92",
-            "CodeSanzz"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "OVA",
-            "Anime"
-        ],
-        "version": 26,
-        "internalName": "Samehadaku",
-        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/Samehadaku.cs3",
-        "name": "Samehadaku"
-    },
-    {
         "iconUrl": "https://showboxapissl.stsoso.com/static/images/favicon.png",
         "fileHash": "sha256-dc0b47d91d743aa7128d6823a75d5d667c0addf59ad76a2ee4d17926c9ecde8c",
         "apiVersion": 1,
