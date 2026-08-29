@@ -844,10 +844,10 @@
     },
     {
         "iconUrl": "https://showboxapissl.stsoso.com/static/images/favicon.png",
-        "fileHash": "sha256-806aec52f5145e2dfe8d957e83ea9d4e5706d9aeed7950c52370af45908cf324",
+        "fileHash": "sha256-dc0b47d91d743aa7128d6823a75d5d667c0addf59ad76a2ee4d17926c9ecde8c",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 52900,
+        "fileSize": 53565,
         "status": 1,
         "language": "en",
         "authors": [
@@ -865,10 +865,10 @@
     },
     {
         "iconUrl": "https://showboxmovies.one/images/favicon.png?v=4",
-        "fileHash": "sha256-e69b9fe2d4f06d6d6158e671f02a6b792f8f995baf6aef8fb3353f8b5e315e8e",
+        "fileHash": "sha256-630fe4d790c946aa328b00450e532bef35ad54c44f308ec089a555c5cd664b1c",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 46601,
+        "fileSize": 46604,
         "status": 1,
         "language": "en",
         "authors": [
@@ -955,10 +955,10 @@
     },
     {
         "iconUrl": "https://www.stremio.com/website/stremio-logo-small.png",
-        "fileHash": "sha256-f99d6886b22f3e7d08b19cd40454e8624e9aaf4b9a3b071ebb4a471c8313dfe7",
+        "fileHash": "sha256-6f8a8107d97cc0f16297f9459f965cd0d5d3ed3e30fa2b7c31c39ec332dec7ca",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 31095,
+        "fileSize": 31096,
         "status": 3,
         "language": "en",
         "authors": [
