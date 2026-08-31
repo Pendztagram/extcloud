@@ -822,10 +822,10 @@
     },
     {
         "iconUrl": "https://showboxapissl.stsoso.com/static/images/favicon.png",
-        "fileHash": "sha256-63c25e373945395dfffece8e911d29c50409b4dbf315ca61811faad84a704256",
+        "fileHash": "sha256-890aa13131140dd0c9040bc248bc0246053e6b61182bb9247b0eb5e51c421abd",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 54931,
+        "fileSize": 54513,
         "status": 1,
         "language": "en",
         "authors": [
