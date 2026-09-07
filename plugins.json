@@ -217,10 +217,10 @@
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dubbindo.site&size=%size%",
-        "fileHash": "sha256-0dc4ee23709252d9a8a5305a348e8b5fd83b679453882e5340bd8e03c51aff3f",
+        "fileHash": "sha256-3cd140014556a1acc8319f24b3963b6fe1386dd084037324ca92bace1f7e295e",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 16712,
+        "fileSize": 17145,
         "status": 1,
         "language": "id",
         "authors": [
