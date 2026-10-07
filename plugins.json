@@ -693,10 +693,10 @@
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://45.11.57.243&size=%size%",
-        "fileHash": "sha256-295a9df052b6d7ee55c538b3dc085f9d54f3113028570d3baa66da64a80beba5",
+        "fileHash": "sha256-2c71c28994a181f54db7cae42ad57e2428d09b73374c66cf8055e30a0b0e1d7d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
-        "fileSize": 28300,
+        "fileSize": 28323,
         "status": 1,
         "language": "id",
         "authors": [
